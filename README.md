@@ -27,29 +27,29 @@ The simulator provides a graphical interface to visualize how each encoding sche
 ## Screenshots
 
 ### Main UI
-![RZ Encoding](screenshots/main.png)
+![main](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/be0a43be-89de-4097-8f08-d1ef994745b4)
 
 ### NRZ-I Encoding
-![RZ Encoding](screenshots/nrz_I_encoding.png)
+![nrz_I_encoding](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/ee1813da-0441-475c-a72d-9565eb3413ab)
 *This screenshot shows the NRZ-I Encoding scheme with adjustable parameters.*
 
 ### RZ Encoding
-![RZ Encoding](screenshots/rz_encoding.png)
+![rz_encoding](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/ad3f1226-639e-4a25-ab98-44dda361f4d0)
 *This screenshot shows the RZ Encoding scheme with adjustable parameters.*
 
 ### Differential Manchester Encoding
-![RZ Encoding](screenshots/differential_manchester_encoding.png)
+![differential_manchester_encoding](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/a00d41e5-788b-4057-b886-c19ddad7e988)
 *This screenshot shows the Differential Manchester Encoding with adjustable parameters.*
 
 ### Pseudoternary Encoding
-![RZ Encoding](screenshots/pseudoternary_encoding.png)
+![pseudoternary_encoding](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/7660a005-02eb-4b14-83c0-748ed48e1ae4)
 *This screenshot shows the Pseudoternary Encoding scheme with adjustable parameters.*
 
 ### ALL Encoding
 ![RZ Encoding](screenshots/all_encoding.png)
 
 ### ERROR
-![RZ Encoding](screenshots/error.png)
+![error](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/60a2ecd9-8c41-47fd-896f-34b82c8e2251)
 
 
 ## Usage

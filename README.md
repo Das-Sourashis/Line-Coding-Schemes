@@ -46,7 +46,7 @@ The simulator provides a graphical interface to visualize how each encoding sche
 *This screenshot shows the Pseudoternary Encoding scheme with adjustable parameters.*
 
 ### ALL Encoding
-![RZ Encoding](screenshots/all_encoding.png)
+![all_encoding](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/5f9f6c10-8663-48b1-b809-9d5f5401ac92)
 
 ### ERROR
 ![error](https://github.com/Das-Sourashis/Line-Coding-Schemes/assets/148188936/60a2ecd9-8c41-47fd-896f-34b82c8e2251)
